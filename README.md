@@ -3,21 +3,15 @@
 
 ## Overview
 
-## Try it out
+License-notices-linter is a simple commandline utility that scans all the source file in a project
+and warns if they have missing or inconsistent copyright notices and SPDX license identifiers
+in the comments at the very beginning of each file.
 
-### Prerequisites
-
-* Prereq 1
-* Prereq 2
-* Prereq 3
+## Documentation
 
 ### Build & Run
 
-1. Step 1
-2. Step 2
-3. Step 3
-
-## Documentation
+Just run `go build`.
 
 ## Contributing
 
@@ -27,3 +21,5 @@ signed as described on that page. Your signature certifies that you wrote the pa
 as an open-source patch. For more detailed information, refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
+
+license-notices-linter is available under the [BSD-2 license](LICENSE).
